@@ -9,7 +9,7 @@ export default function Head() {
         name='description'
         content='Website providing basic informations about buddhist art'
       />
-      <link rel='icon' href='../public/favicon.ico' />
+      <link rel='icon' href='/favicon.ico' />
     </>
   );
 }
