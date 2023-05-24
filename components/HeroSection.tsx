@@ -34,15 +34,28 @@ const HeroSection = () => {
               Since 2006 knowledge of clay statue building and thangka painting
               has been passed on to western students by recognized masters.
               <br />
+              <br />
               In October 2015, Lama Ole Nydahl gave permission to build staues
               for the Diamond Way Buddhist centers and asked his students to
               organize a school to learn skills of building and painting in
               traditional buddhist way.
             </p>
+            <br />
+            <br />
+            <p>
+              <span className='italic'>
+                “This is our technique, clay is the material in the Himalaya.
+                You should build statues for the centers.”
+              </span>
+              <br />
+              <br />
+              Lama Ole Nydahl on the occasion of visiting the BINTA in October
+              2015
+            </p>
           </div>
         </div>
 
-        <hr className='w-full h-0.5 mx-auto my-20 bg-neutral-600 border-0'></hr>
+        <hr className='w-full h-px mx-auto my-20 bg-neutral-600 border-0'></hr>
 
         <div className='flex flex-col space-y-10 justify-center align-center md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left'>
           <div className='text-center md:w-1/2 md:text-left'>
@@ -55,18 +68,28 @@ const HeroSection = () => {
               possess attributes that are described in the meditation
               instructions. For their transmission experienced masters are
               needed.
+              <br />
+              <br />
+              We continuously offer courses in which one can get a sense of the
+              tradition of building clay statues that goes back now for more
+              than a thousand years.
             </p>
           </div>
           <div className='text-center md:w-1/2 md:text-left'>
             <p>
-              <span className='italic'>
-                “This is our technique, clay is the material in the Himalaya.
-                You should build statues for the centers.”
-              </span>
+              Meanwhile we have elaborated a curriculum together with statue
+              building masters.
               <br />
               <br />
-              Lama Ole Nydahl on the occasion of visiting the BINTA in October
-              2015
+              Along with the practical work on statues, we collect texts, books
+              and doctoral theses and exhibition catalogues about traditional
+              Buddhist art. An archive composed of photographs of statues and
+              documentations of the technique of building statues is planned in
+              the long run.
+              <br />
+              <br />
+              Additionally, we give lectures about the history and technique of
+              building clay statues.
             </p>
           </div>
         </div>
