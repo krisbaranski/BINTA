@@ -6,7 +6,7 @@ const AboutSection = () => {
     <section id='school'>
       <div className='my-12 pb-12 md:pt-16 md:pb-48'>
         <h1 className='text-center font-bold text-4xl'>
-          About Us
+          School
           <hr className='w-24 h-1 mx-auto my-4 bg-stone-500 border-0 rounded'></hr>
         </h1>
 
@@ -15,13 +15,18 @@ const AboutSection = () => {
             <p>
               The goal is to be trained to become independent statue builders
               and thangka painters. It has become possible to go through a solid
-              formation conducted by statue building master Chhemet Rigzin in
-              building statues in the Western hemisphere. In Ladakh, this
-              education lasts between 6 to 17 years while working intensively
-              with the master on a daily basis. During the education, the
-              students draw and model over several years (the duration is due to
-              the student´s capacities and personal input, also one might have
-              to remodel a certain form time and again).
+              formation conducted by statue building masters in building statues
+              in the western hemisphere.
+              <br />
+              <br />
+              In Ladakh, this education lasts between 6 to 17 years while
+              working intensively with the master on a daily basis. During the
+              education, the students draw and model over several years
+              <br />
+              <br />
+              (the duration is due to the student´s capacities and personal
+              input, also one might have to remodel a certain form time and
+              again).
             </p>
           </div>
           <div className='m-16 md:m-0 md:w-1/2'>
@@ -48,15 +53,21 @@ const AboutSection = () => {
           <div className='text-center md:w-1/2 md:text-left'>
             <p>
               The following Buddha forms and Buddha aspects have already been
-              built under our teacher´s guidance: Buddha Shakyamuni, Green or
-              White Liberatice (tib.: Dolmar; sansk.: Tara), Black Coat (tib.:
-              Bernagchen; sansk.: Mahakala), Loving Eyes , Milarepa, Marpa or
-              other forms. Every year we organize courses in the workshop of the
-              Buddhist Center Braunschweig. Participation in an introductory
-              course is required. Everybody having participated successfully in
-              a course and having completed a statue will be certified. After
-              completion of the training the participants receive a certificate
-              which empowers them to work independently.
+              built under our teacher´s guidance:
+              <br />
+              <br />
+              <ol className='list-disc pl-8'>
+                <li>Buddha Shakyamuni,</li>
+                <li>Green or White Liberatice (tib.: Dolmar; sansk.: Tara),</li>
+                <li>Black Coat (tib.: Bernagchen; sansk.: Mahakala),</li>
+                <li>Loving Eyes (tib.: Chenrezig; sanskr.: Avalokitesvara)</li>
+                <li>Guru Rinpoche (tib. ; sanskr.:Padmasambhava)</li>
+                <li> Milarepa, Marpa and other forms.</li>
+              </ol>
+              <br />
+              <br />
+              Every year we organize courses in the workshop. Participation in
+              an introductory course is required.
             </p>
           </div>
         </div>
