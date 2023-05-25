@@ -29,7 +29,7 @@ const HeroSection = () => {
               tibetan buddhist art.
               <br />
               <br />
-              Institute is located in Braunschweig, Germany.
+              Institute is located in Brunswick, Germany.
               <br />
               Since 2006 knowledge of clay statue building and thangka painting
               has been passed on to western students by recognized masters.
@@ -61,26 +61,48 @@ const HeroSection = () => {
           <div className='text-center md:w-1/2 md:text-left'>
             <p>
               Statues and thangkas (scroll paintings) are inseparable from
-              Tibetan Buddhism. The varied Buddha forms are useful to bring to
-              mind the Buddha aspects during meditation. These cause responses
-              in our mind. In order to make statues and thangkas work, they have
-              to be produced in accordance to defined standards and they need to
-              possess attributes that are described in the meditation
-              instructions. For their transmission experienced masters are
-              needed.
+              Tibetan Buddhism. The varied Buddha forms are useful to recall the
+              Buddha aspects during meditation. These cause responses in our
+              mind. To make statues and thangkas work, they have to be produced
+              in accordance to defined standards and they need to possess
+              attributes that are described in the meditation instructions. For
+              their transmission experienced masters are needed.
+            </p>
+            <br />
+            <br />
+            <p>
+              <i>
+                ´You can´t build Buddhist statues just like that - without
+                transmission´
+              </i>{" "}
+              Hannah Nydahl told us in 2006.
               <br />
-              <br />
-              We continuously offer courses in which one can get a sense of the
-              tradition of building clay statues that goes back now for more
-              than a thousand years.
+              <i>
+                ´If you really want to do sound work, if you want it to be big,
+                you need transmission, a master who is in a secured tradition.´
+              </i>
+            </p>
+            <br />
+            <br />
+            <p>
+              Since 2006 we offer here the possibility to learn the art of
+              building clay statues. From 2006 to 2010, Richard Granado taught
+              the Bhutanese technique of statue making in ten one-week
+              workshops.
             </p>
           </div>
           <div className='text-center md:w-1/2 md:text-left'>
             <p>
-              Meanwhile we have elaborated a curriculum together with statue
-              building masters.
-              <br />
-              <br />
+              Since 2010, Chhemet Rigzin has come to Brunswick each year to
+              build statues in the Tibetan/Ladakhi tradition in consultation
+              with Lama Ole Nydahl and to teach statue making to Diamond Way
+              practitioners from around the world. The course enables
+              practitioners to build the various Buddha aspects and the
+              associated iconometry and iconography according to the tradition.
+            </p>
+            <br />
+            <br />
+            <p>
               Along with the practical work on statues, we collect texts, books
               and doctoral theses and exhibition catalogues about traditional
               Buddhist art. An archive composed of photographs of statues and
