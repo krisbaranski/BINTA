@@ -3,7 +3,7 @@ import React from "react";
 import { ThemeProvider } from "next-themes";
 import HeroSection from "@/components/HeroSection";
 import School from "@/components/School";
-import Research from "../components/research";
+import Research from "@/components/research";
 
 export default function Home() {
   return (
