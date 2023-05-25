@@ -19,7 +19,7 @@ const Research = () => {
             out of clay directly in the monasteries for more than 1,000 years.
             <br />
             <br />
-            Clay statues, as stated by Lama Ole Nydahl in Braunschweig in 2015,
+            Clay statues, as stated by Lama Ole Nydahl in Brunswick in 2015,
             “Our methods and material are that of Tibet”. The art of making clay
             statues has a long tradition. The specialized library for
             Traditional Buddhist art contains valuable books on Buddhist art,
@@ -29,9 +29,10 @@ const Research = () => {
             <br />
             About the clay statue construction in Ladakh and Brunswick there is
             a dissertation by Petra Förster
-            {/* <a href='https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5063&lng=deu&id='>
-              ´Buddhistischer Lehmstatuenbau in Ladakh´
-            </a> */}
+            <a href='https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5063&lng=deu&id='>
+              ”Buddhistischer Lehmstatuenbau in Ladakh”
+            </a>
+            <br />
             The production of the clay statues in Braunschweig is documented and
             archived. In this way the knowledge about clay statue making and its
             tradition is preserved in a long term.
