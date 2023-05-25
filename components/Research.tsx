@@ -18,12 +18,14 @@ const Research = () => {
             Ladakh. The main aspects of Buddhist meditations have been created
             out of clay directly in the monasteries for more than 1,000 years.
             <br />
+            <br />
             Clay statues, as stated by Lama Ole Nydahl in Braunschweig in 2015,
             “Our methods and material are that of Tibet”. The art of making clay
             statues has a long tradition. The specialized library for
             Traditional Buddhist art contains valuable books on Buddhist art,
             exhibition catalogues, as well as doctoral thesis and publications
             on this subject.
+            <br />
             <br />
             About the clay statue construction in Ladakh and Brunswick there is
             a dissertation by Petra Förster
