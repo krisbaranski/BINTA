@@ -1,11 +1,9 @@
 "use client";
 import React from "react";
 import { ThemeProvider } from "next-themes";
-import School from "../components/School";
-import HeroSection from "../components/HeroSection";
-import Statues from "../components/Statues";
-import Research from "../components/Research";
-import Contact from "../components/Contact";
+import HeroSection from "@/components/HeroSection";
+import School from "@/components/School";
+import Research from "../components/research";
 
 export default function Home() {
   return (
@@ -14,8 +12,6 @@ export default function Home() {
         <HeroSection />
         <School />
         <Research />
-        <Statues />
-        <Contact />
       </ThemeProvider>
     </main>
   );
