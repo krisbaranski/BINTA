@@ -10,8 +10,8 @@ const AboutSection = () => {
           <hr className='w-24 h-1 mx-auto my-4 bg-stone-500 border-0 rounded'></hr>
         </h1>
 
-        <div className='flex flex-col space-y-10 justify-center align-center md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left'>
-          <div className='text-center md:w-1/2 md:text-left'>
+        <div className='flex flex-col space-y-10 justify-center align-center md:space-x-10 md:space-y-0 md:p-4 md:flex-row text-left'>
+          <div className='text-left md:w-1/2'>
             <p>
               Since 2010 Chhemet Rigzin has come to Brunswick each year to build
               statues in the Tibetan/Ladakhi tradition in consultation with Lama
@@ -47,7 +47,7 @@ const AboutSection = () => {
           </div>
         </div>
 
-        <div className='flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left'>
+        <div className='flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row text-left'>
           <div className='m-16 md:m-0 md:w-1/2'>
             <Image
               src='/Atelier_work_desk.png'
@@ -57,7 +57,7 @@ const AboutSection = () => {
               className='rounded shadow-lg'
             />
           </div>
-          <div className='text-center md:w-1/2 md:text-left'>
+          <div className='text-left md:w-1/2'>
             <p>
               The following Buddha forms have already been built under our
               teacher´s guidance:
@@ -71,7 +71,7 @@ const AboutSection = () => {
                 <li> Loving Eyes (tib.: Chenrezig; sanskr.: Avalokitesvara)</li>
                 <li> Guru Rinpoche (tib. ; sanskr.:Padmasambhava)</li>
                 <li> Milarepa, Marpa</li>
-                <li> 16th Karmapa Rangdjung Rigpe Dorje</li>
+                <li> 16th Karmapa Rangjung Rigpe Dorje</li>
               </ol>
               <br />
               <br />

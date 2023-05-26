@@ -23,7 +23,7 @@ const HeroSection = () => {
             </h1>
           </div>
 
-          <div className='text-center md:w-1/2 md:text-left'>
+          <div className='text-left md:w-1/2'>
             <p>
               The Buddhist Institute of Tibetan Art, called BINTA for short is
               collecting informations and providing knowlegde of Tibetan
@@ -47,8 +47,8 @@ const HeroSection = () => {
 
         <hr className='w-full h-px mx-auto my-20 bg-neutral-600 border-0'></hr>
 
-        <div className='flex flex-col space-y-10 justify-center align-center md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left'>
-          <div className='text-center md:w-1/2 md:text-left'>
+        <div className='flex flex-col space-y-10 justify-center align-center md:space-x-10 md:space-y-0 md:p-4 md:flex-row text-left'>
+          <div className='text-left md:w-1/2'>
             <p>
               Statues and thangkas (scroll paintings) are inseparable from
               Tibetan Buddhism. The varied Buddha forms are useful to recall the
@@ -73,7 +73,7 @@ const HeroSection = () => {
               </i>
             </p>
           </div>
-          <div className='text-center md:w-1/2 md:text-left'>
+          <div className='text-left md:w-1/2'>
             <p>
               Along with the practical work on statues, we collect texts, books
               and doctoral theses and exhibition catalogues about traditional

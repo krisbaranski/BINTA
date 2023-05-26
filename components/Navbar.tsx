@@ -39,8 +39,8 @@ export default function Navbar() {
   const [navbar, setNavbar] = useState(false);
 
   return (
-    <header className='w-full mx-auto  px-4 sm:px-20 fixed top-0 z-50 shadow bg-white dark:bg-stone-900 dark:border-b dark:border-stone-600'>
-      <div className='justify-between md:items-center md:flex cursor-pointer'>
+    <header className='w-full mx-auto  px-4 sm:px-24 fixed top-0 z-50 shadow bg-white dark:bg-stone-900 dark:border-b dark:border-stone-600'>
+      <div className='max-w-4xl mx-auto justify-between md:items-center md:flex'>
         <div>
           <div className='flex items-end justify-between pb-6 md:pb-8 md:block'>
             <Link
@@ -52,14 +52,14 @@ export default function Navbar() {
               duration={500}
               onClick={() => setNavbar(!navbar)}
             >
-              <div className='flex items-end'>
+              <div className='flex items-end cursor-pointer'>
                 {currentTheme === "dark" ? (
                   <Image
                     src='/logo_hand_b.png'
                     alt=''
                     width={80}
                     height={80}
-                    className={`flex mt-8 md:block pb-0 mt-0 `}
+                    className={`flex mt-8 md:block pb-0 mt-0`}
                   />
                 ) : (
                   <Image
@@ -91,14 +91,14 @@ export default function Navbar() {
               navbar ? "block" : "hidden"
             }`}
           >
-            <div className='items-center justify-center space-y-6  md:flex md:space-x-6 md:space-y-0'>
+            <div className='items-center justify-center space-y-6 md:flex md:space-x-6 md:space-y-0 cursor-pointer'>
               {NAV_ITEMS.map((item, idx) => {
                 return (
                   <Link
                     key={idx}
                     to={item.page}
                     className={
-                      "block lg:inline-block text-neutral-900  hover:text-neutral-500 dark:text-neutral-100"
+                      "block lg:inline-block text-neutral-900 hover:text-neutral-500 dark:text-neutral-100"
                     }
                     activeClass='active'
                     spy={true}

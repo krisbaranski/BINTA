@@ -10,7 +10,7 @@ const Research = () => {
           <hr className='w-24 h-1 mx-auto my-4 bg-stone-500 border-0 rounded'></hr>
         </h1>
 
-        <div className='flex flex-col space-y-12'>
+        <div className='flex flex-col space-y-12 text-left'>
           <p>
             Statues are an important aspect of Diamond Way Methods. In addition
             to the well-known metal statues from Nepal, clay statues are also
