@@ -30,10 +30,11 @@ const HeroSection = () => {
               Buddhist Art.
               <br />
               <br />
-              BINTA is located in the buddhist Centre Brunswick, Germany.
+              BINTA is located in the Diamond Way buddhist centre in Brunswick,
+              Germany.
               <br />
-              Since 2006 knowledge of clay statue building and thangka painting
-              has been passed on to western students by recognized masters.
+              Since 2006 knowledge of clay statue building and painting has been
+              passed on to western students by recognized masters.
               <br />
               <br />
               In October 2015, Lama Ole Nydahl gave permission to build statues
@@ -64,7 +65,7 @@ const HeroSection = () => {
                 ”You can´t build Buddhist statues just like that - without
                 transmission”
               </i>
-              Hannah Nydahl told us in 2006.
+              - Hannah Nydahl told us in 2006.
               <br />
               <i>
                 ”If you really want to do sound work, if you want it to be big,
@@ -76,7 +77,7 @@ const HeroSection = () => {
             <p>
               Along with the practical work on statues, we collect texts, books
               and doctoral theses and exhibition catalogues about traditional
-              Buddhist art. An archive composed of photographs of statues and
+              Buddhist art. An archive composed of photographs, statues and
               documentations of the technique of building statues is planned in
               the long run.
               <br />

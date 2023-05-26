@@ -32,7 +32,9 @@ const Research = () => {
             <br />
             <a
               href='https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5063&lng=deu&id='
-              className='px-2 text-blue-700'
+              className='px-2 text-indigo-700 dark:text-indigo-300'
+              target='_blank'
+              rel='noopener noreferrer'
             >
               ”Buddhistischer Lehmstatuenbau in Ladakh”
             </a>

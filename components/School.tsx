@@ -13,6 +13,14 @@ const AboutSection = () => {
         <div className='flex flex-col space-y-10 justify-center align-center md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left'>
           <div className='text-center md:w-1/2 md:text-left'>
             <p>
+              Since 2010 Chhemet Rigzin has come to Brunswick each year to build
+              statues in the Tibetan/Ladakhi tradition in consultation with Lama
+              Ole Nydahl and to teach statue building to Diamond Way
+              practitioners from around the world. The courses that we provide
+              anable students to build the various Buddha aspects and learn the
+              assosiated iconometry and iconography according to the tradition.
+              <br />
+              <br />
               We continuously offer courses in which one can get a sense of the
               tradition of building clay statues that goes back now for more
               than a thousand years. Meanwhile we have elaborated a curriculum
@@ -22,7 +30,6 @@ const AboutSection = () => {
               In Ladakh, this education lasts between 6 to 17 years while
               working intensively with the master daily. During the education,
               the students draw and model over several years.
-              <br />
               <br />
               (the duration is due to the student´s capacities and personal
               input, also one might have to remodel a certain form time and
@@ -56,15 +63,15 @@ const AboutSection = () => {
               teacher´s guidance:
               <br />
               <br />
-              <ol className='list-disc pl-8'>
+              <ol className='list-disc pl-8 text-left'>
                 <li> Buddha Shakyamuni,</li>
-                <li> Green Liberatrice (tib.: Dolmar; sansk.: Shyamatara)</li>
                 <li> White Liberatrice (tib.: Dolkar; sansk.: Sitatara)</li>
+                <li> Green Liberatrice (tib.: Dolmar; sansk.: Shyamatara)</li>
                 <li> Black Coat (tib.: Bernagchen; sansk.: Mahakala)</li>
                 <li> Loving Eyes (tib.: Chenrezig; sanskr.: Avalokitesvara)</li>
                 <li> Guru Rinpoche (tib. ; sanskr.:Padmasambhava)</li>
                 <li> Milarepa, Marpa</li>
-                <li> 16th Karmapa (tib.:Rangdjung Rigpe Dorje)</li>
+                <li> 16th Karmapa Rangdjung Rigpe Dorje</li>
               </ol>
               <br />
               <br />
