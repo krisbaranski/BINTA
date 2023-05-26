@@ -25,32 +25,21 @@ const HeroSection = () => {
 
           <div className='text-center md:w-1/2 md:text-left'>
             <p>
-              BINTA is collecting informations and providing knowlegde of
-              tibetan buddhist art.
+              The Buddhist Institute of Tibetan Art, called BINTA for short is
+              collecting informations and providing knowlegde of Tibetan
+              Buddhist Art.
               <br />
               <br />
-              Institute is located in Brunswick, Germany.
+              BINTA is located in the buddhist Centre Brunswick, Germany.
               <br />
               Since 2006 knowledge of clay statue building and thangka painting
               has been passed on to western students by recognized masters.
               <br />
               <br />
-              In October 2015, Lama Ole Nydahl gave permission to build staues
+              In October 2015, Lama Ole Nydahl gave permission to build statues
               for the Diamond Way Buddhist centers and asked his students to
               organize a school to learn skills of building and painting in
               traditional buddhist way.
-            </p>
-            <br />
-            <br />
-            <p>
-              <span className='italic'>
-                “This is our technique, clay is the material in the Himalaya.
-                You should build statues for the centers.”
-              </span>
-              <br />
-              <br />
-              Lama Ole Nydahl on the occasion of visiting the BINTA in October
-              2015
             </p>
           </div>
         </div>
@@ -72,36 +61,18 @@ const HeroSection = () => {
             <br />
             <p>
               <i>
-                ´You can´t build Buddhist statues just like that - without
-                transmission´
-              </i>{" "}
+                ”You can´t build Buddhist statues just like that - without
+                transmission”
+              </i>
               Hannah Nydahl told us in 2006.
               <br />
               <i>
-                ´If you really want to do sound work, if you want it to be big,
-                you need transmission, a master who is in a secured tradition.´
+                ”If you really want to do sound work, if you want it to be big,
+                you need transmission, a master who is in a secured tradition.”
               </i>
-            </p>
-            <br />
-            <br />
-            <p>
-              Since 2006 we offer here the possibility to learn the art of
-              building clay statues. From 2006 to 2010, Richard Granado taught
-              the Bhutanese technique of statue making in ten one-week
-              workshops.
             </p>
           </div>
           <div className='text-center md:w-1/2 md:text-left'>
-            <p>
-              Since 2010, Chhemet Rigzin has come to Brunswick each year to
-              build statues in the Tibetan/Ladakhi tradition in consultation
-              with Lama Ole Nydahl and to teach statue making to Diamond Way
-              practitioners from around the world. The course enables
-              practitioners to build the various Buddha aspects and the
-              associated iconometry and iconography according to the tradition.
-            </p>
-            <br />
-            <br />
             <p>
               Along with the practical work on statues, we collect texts, books
               and doctoral theses and exhibition catalogues about traditional
