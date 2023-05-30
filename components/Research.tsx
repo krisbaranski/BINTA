@@ -39,7 +39,8 @@ const Research = () => {
               ”Buddhistischer Lehmstatuenbau in Ladakh”
             </a>
             <br />
-            The production of the clay statues in Braunschweig is documented and
+            <br />
+            The production of the clay statues in Brunswick is documented and
             archived. In this way the knowledge about clay statue making and its
             tradition is preserved in a long term.
           </p>
