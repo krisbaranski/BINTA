@@ -27,8 +27,8 @@ const Research = () => {
             on this subject.
             <br />
             <br />
-            About the clay statue construction in Ladakh and Brunswick there is
-            a dissertation by Petra Förster
+            There is a dissertation about the clay statue construction in Ladakh
+            and Brunswick written by Petra Förster
             <br />
             <a
               href='https://www.logos-verlag.de/cgi-bin/engbuchmid?isbn=5063&lng=deu&id='
